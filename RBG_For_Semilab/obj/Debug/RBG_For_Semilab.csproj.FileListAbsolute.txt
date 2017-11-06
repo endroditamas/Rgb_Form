@@ -1,0 +1,10 @@
+C:\Users\EndrodiTamas\source\repos\RBG_For_Semilab\RBG_For_Semilab\bin\Debug\RBG_For_Semilab.exe.config
+C:\Users\EndrodiTamas\source\repos\RBG_For_Semilab\RBG_For_Semilab\bin\Debug\RBG_For_Semilab.exe
+C:\Users\EndrodiTamas\source\repos\RBG_For_Semilab\RBG_For_Semilab\bin\Debug\RBG_For_Semilab.pdb
+C:\Users\EndrodiTamas\source\repos\RBG_For_Semilab\RBG_For_Semilab\obj\Debug\RBG_For_Semilab.csprojResolveAssemblyReference.cache
+C:\Users\EndrodiTamas\source\repos\RBG_For_Semilab\RBG_For_Semilab\obj\Debug\RBG_For_Semilab.Base_Form.resources
+C:\Users\EndrodiTamas\source\repos\RBG_For_Semilab\RBG_For_Semilab\obj\Debug\RBG_For_Semilab.Properties.Resources.resources
+C:\Users\EndrodiTamas\source\repos\RBG_For_Semilab\RBG_For_Semilab\obj\Debug\RBG_For_Semilab.csproj.GenerateResource.Cache
+C:\Users\EndrodiTamas\source\repos\RBG_For_Semilab\RBG_For_Semilab\obj\Debug\RBG_For_Semilab.csproj.CoreCompileInputs.cache
+C:\Users\EndrodiTamas\source\repos\RBG_For_Semilab\RBG_For_Semilab\obj\Debug\RBG_For_Semilab.exe
+C:\Users\EndrodiTamas\source\repos\RBG_For_Semilab\RBG_For_Semilab\obj\Debug\RBG_For_Semilab.pdb
